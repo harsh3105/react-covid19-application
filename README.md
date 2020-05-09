@@ -8,4 +8,10 @@ You can see the demo of the application [here](https://harsh3105.github.io/react
 
 **Screenshot of the application :**
 
+![image 2](https://github.com/harsh3105/react-covid19-application/blob/master/Screenshots/img%202.png)
 
+![image 3](https://github.com/harsh3105/react-covid19-application/blob/master/Screenshots/img%203.png)
+
+![image 4](https://github.com/harsh3105/react-covid19-application/blob/master/Screenshots/img%204.png)
+
+![image 5](https://github.com/harsh3105/react-covid19-application/blob/master/Screenshots/img%205.png)
